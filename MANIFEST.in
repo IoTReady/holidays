@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include holidays *.css
+recursive-include holidays *.csv
+recursive-include holidays *.html
+recursive-include holidays *.ico
+recursive-include holidays *.js
+recursive-include holidays *.json
+recursive-include holidays *.md
+recursive-include holidays *.png
+recursive-include holidays *.py
+recursive-include holidays *.svg
+recursive-include holidays *.txt
+recursive-exclude holidays *.pyc
