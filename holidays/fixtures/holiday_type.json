@@ -1,0 +1,611 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:20:54.189085",
+  "name": "Gazetted Holiday",
+  "title": "Gazetted Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:20:54.357136",
+  "name": "Observance",
+  "title": "Observance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:20:54.372569",
+  "name": "Season",
+  "title": "Season"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:20:54.407991",
+  "name": "Restricted Holiday",
+  "title": "Restricted Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:20:54.460214",
+  "name": "Muslim Common Local Holiday",
+  "title": "Muslim Common Local Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:20:54.469645",
+  "name": "Observance Christian",
+  "title": "Observance Christian"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:20:54.545665",
+  "name": "Observance Hinduism",
+  "title": "Observance Hinduism"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:19.370485",
+  "name": "Public Holiday",
+  "title": "Public Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:20.788013",
+  "name": "Clock Change Daylight Saving Time",
+  "title": "Clock Change Daylight Saving Time"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:20.822774",
+  "name": "National Holiday",
+  "title": "National Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:20.939192",
+  "name": "Observance Orthodox",
+  "title": "Observance Orthodox"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:20.966414",
+  "name": "National Holiday Orthodox",
+  "title": "National Holiday Orthodox"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:24.101529",
+  "name": "Bank Holiday",
+  "title": "Bank Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:28.887989",
+  "name": "Muslim Optional Holiday",
+  "title": "Muslim Optional Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:28.905872",
+  "name": "Hebrew Optional Holiday",
+  "title": "Hebrew Optional Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:29.029115",
+  "name": "Optional Holiday",
+  "title": "Optional Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:29.078644",
+  "name": "Hebrew",
+  "title": "Hebrew"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:29.205443",
+  "name": "National Holiday Christian",
+  "title": "National Holiday Christian"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:32.491859",
+  "name": "State Holiday",
+  "title": "State Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:32.540107",
+  "name": "Jewish Holiday",
+  "title": "Jewish Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:32.599965",
+  "name": "Orthodox",
+  "title": "Orthodox"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:32.645780",
+  "name": "Christian",
+  "title": "Christian"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:32.829658",
+  "name": "Muslim",
+  "title": "Muslim"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:32.983081",
+  "name": "Jewish Commemoration",
+  "title": "Jewish Commemoration"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:33.007909",
+  "name": "Half Day Restricted Trading Day",
+  "title": "Half Day Restricted Trading Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:33.039685",
+  "name": "Local Observance",
+  "title": "Local Observance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:33.072201",
+  "name": "Restricted Trading Day",
+  "title": "Restricted Trading Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:23:33.117942",
+  "name": "State Public Sector Holiday",
+  "title": "State Public Sector Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:27:51.714538",
+  "name": "Government Holiday",
+  "title": "Government Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:27:55.888415",
+  "name": "Regional Government Holiday",
+  "title": "Regional Government Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:27:58.455504",
+  "name": "National Day",
+  "title": "National Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:03.678637",
+  "name": "Local Holiday",
+  "title": "Local Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:03.776785",
+  "name": "Local Holiday Orthodox",
+  "title": "Local Holiday Orthodox"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:03.828051",
+  "name": "Working Holiday",
+  "title": "Working Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:15.284310",
+  "name": "Federal Employees Holiday",
+  "title": "Federal Employees Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:15.351906",
+  "name": "Statutory Holiday",
+  "title": "Statutory Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:15.398817",
+  "name": "Common Local Holiday",
+  "title": "Common Local Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:15.798178",
+  "name": "Local De Facto Holiday",
+  "title": "Local De Facto Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:21.738328",
+  "name": "Half Day Holiday",
+  "title": "Half Day Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:30.165442",
+  "name": "Non Compulsory Payment Holiday",
+  "title": "Non Compulsory Payment Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:37.121496",
+  "name": "Private Sector Holiday",
+  "title": "Private Sector Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:49.071132",
+  "name": "Half Day",
+  "title": "Half Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:28:51.295918",
+  "name": "De Facto And Bank Holiday",
+  "title": "De Facto And Bank Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:38.200868",
+  "name": "Observance Hebrew",
+  "title": "Observance Hebrew"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:38.236156",
+  "name": "Christian Common Local Holiday",
+  "title": "Christian Common Local Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:38.288571",
+  "name": "Silent Day",
+  "title": "Silent Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:38.519010",
+  "name": "Observance Muslim",
+  "title": "Observance Muslim"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:41.071379",
+  "name": "Major Observance",
+  "title": "Major Observance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:42.011198",
+  "name": "De Facto Holiday",
+  "title": "De Facto Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:46.992929",
+  "name": "Municipal Holiday",
+  "title": "Municipal Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:34:52.169053",
+  "name": "National Legal Holiday",
+  "title": "National Legal Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:00.562949",
+  "name": "Regional Holiday",
+  "title": "Regional Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:03.698497",
+  "name": "National Holiday Hebrew",
+  "title": "National Holiday Hebrew"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:03.900469",
+  "name": "Official Holiday Business As Usual",
+  "title": "Official Holiday Business As Usual"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:15.334826",
+  "name": "Official Holiday",
+  "title": "Official Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:24.914964",
+  "name": "Half Day Bank Holiday",
+  "title": "Half Day Bank Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:25.592252",
+  "name": "Obligatory Holiday",
+  "title": "Obligatory Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:25.620589",
+  "name": "Half Day For Public Employees",
+  "title": "Half Day For Public Employees"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:25.662946",
+  "name": "Public Employees",
+  "title": "Public Employees"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:29.218466",
+  "name": "Federal Public Holiday",
+  "title": "Federal Public Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:29.232750",
+  "name": "Federal Territory Holiday",
+  "title": "Federal Territory Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:30.641350",
+  "name": "Bank And Government Holiday",
+  "title": "Bank And Government Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:35.447789",
+  "name": "Hindu Holiday",
+  "title": "Hindu Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:48.569864",
+  "name": "Public Sector",
+  "title": "Public Sector"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:57.295103",
+  "name": "Flag Day",
+  "title": "Flag Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:57.324884",
+  "name": "National Holiday Flag Day",
+  "title": "National Holiday Flag Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:57.381217",
+  "name": "Observance Flag Day",
+  "title": "Observance Flag Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:35:57.548133",
+  "name": "Bank Holiday Observance",
+  "title": "Bank Holiday Observance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:07.195937",
+  "name": "Regular Holiday",
+  "title": "Regular Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:07.224355",
+  "name": "Special Non Working Holiday",
+  "title": "Special Non Working Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:07.327646",
+  "name": "Special Working Public Holiday",
+  "title": "Special Working Public Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:10.708943",
+  "name": "District Holiday",
+  "title": "District Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:12.127418",
+  "name": "Bank Public Sector Holiday",
+  "title": "Bank Public Sector Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:31.407981",
+  "name": "Christian Optional Holiday",
+  "title": "Christian Optional Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:31.569914",
+  "name": "Orthodox Optional Holiday",
+  "title": "Orthodox Optional Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:44.451202",
+  "name": "Autonomous Community Holiday",
+  "title": "Autonomous Community Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:44.651191",
+  "name": "Provincial Holiday",
+  "title": "Provincial Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:50.759997",
+  "name": "De Facto Half Holiday",
+  "title": "De Facto Half Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:36:53.861904",
+  "name": "Private Sector",
+  "title": "Private Sector"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:10.958417",
+  "name": "Local Bank Holiday",
+  "title": "Local Bank Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:12.589088",
+  "name": "Worldwide Observance",
+  "title": "Worldwide Observance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:12.599962",
+  "name": "United Nations Observance",
+  "title": "United Nations Observance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:12.631912",
+  "name": "Annual Monthly Observance",
+  "title": "Annual Monthly Observance"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:12.753089",
+  "name": "Sporting Event",
+  "title": "Sporting Event"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:12.826249",
+  "name": "Federal Holiday",
+  "title": "Federal Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:13.592222",
+  "name": "State Observation",
+  "title": "State Observation"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-04 17:37:16.037864",
+  "name": "Bank Working Holiday",
+  "title": "Bank Working Holiday"
+ }
+]
