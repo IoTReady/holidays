@@ -5,6 +5,8 @@ frappe.ui.form.on('Holiday List', {
                 query: "holidays.utils.holiday_type_query",
                 filters: {
                     country: frm.doc.country,
+                    from_date: frm.doc.from_date,
+                    to_date: frm.doc.to_date,
                 },
             };
         });
