@@ -607,5 +607,33 @@
   "modified": "2023-02-04 17:37:16.037864",
   "name": "Bank Working Holiday",
   "title": "Bank Working Holiday"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-05 13:34:55.784714",
+  "name": "Working Day On Weekend",
+  "title": "Working Day On Weekend"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-05 13:35:14.690395",
+  "name": "Designated Retail Closing Day",
+  "title": "Designated Retail Closing Day"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-05 13:38:07.438880",
+  "name": "Working Day Replacement",
+  "title": "Working Day Replacement"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Holiday Type",
+  "modified": "2023-02-05 14:11:51.353193",
+  "name": "Silent Day Public Holiday",
+  "title": "Silent Day Public Holiday"
  }
 ]
