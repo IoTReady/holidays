@@ -1,0 +1,13 @@
+[
+ {
+  "all_day": 1,
+  "docstatus": 0,
+  "doctype": "Calendar View",
+  "end_date_field": "date",
+  "modified": "2023-02-05 20:49:29.315582",
+  "name": "Holidays on Planet Earth",
+  "reference_doctype": "Country Holiday",
+  "start_date_field": "date",
+  "subject_field": "description"
+ }
+]

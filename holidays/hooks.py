@@ -199,4 +199,5 @@ fixtures = [
     # export all records from the following doctypes
     "Holiday Type",
     "Country Holiday",
+    "Calendar View",
 ]
