@@ -4,4 +4,4 @@ All International Holiday Lists
 
 #### License
 
-UNLICENSED
+MIT
